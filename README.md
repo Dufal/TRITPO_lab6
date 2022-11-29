@@ -1,0 +1,2 @@
+# TRITPO_lab6
+TRITPO_lab6
